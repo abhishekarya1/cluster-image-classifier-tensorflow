@@ -35,7 +35,7 @@ Model can successfully differentiate between image of a globular cluster and an 
 ![accuracy](screenshots/fin.jpg)
 
 ### Test on Globular Star Cluster Image
-![accuracy](screenshots/result2.jpg)
+![result1](screenshots/result1.png)
 
 ### Test on Open Star Cluster Image
-![accuracy](screenshots/result1.jpg)
+![result2](screenshots/result2.png)
