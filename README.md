@@ -4,7 +4,7 @@ This is the repository developed for demonstrating _Transfer Learning_ with Conv
 
 Astronomers can use this classifier to automatically label whether an image taken by telescope is of a Globular Star Cluster or an Open Star Cluster.
 
-![diff](screenshots/diffclusters.jpg)
+![diff](screenshots/diffclusters.JPG)
 
 ## Requirements
 
