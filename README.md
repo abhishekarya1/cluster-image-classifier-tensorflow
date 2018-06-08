@@ -21,18 +21,18 @@ Astronomers can use this classifier to automatically label whether an image take
 
 ## Training
 
-![training](screenshots/training.jpg)
+![training](screenshots/training.JPG)
 
 ## Tensorboard Training Summaries
 
-![s1](screenshots/tensorboard1.jpg)
-![s2](screenshots/tensorboard2.jpg)
+![s1](screenshots/tensorboard1.JPG)
+![s2](screenshots/tensorboard2.JPG)
 
 ## Results
 Model can successfully differentiate between image of a globular cluster and an open cluster. 
 
 ### Accuracy
-![accuracy](screenshots/fin.jpg)
+![accuracy](screenshots/fin.JPG)
 
 ### Test on Globular Star Cluster Image
 ![result1](screenshots/result1.png)
